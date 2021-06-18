@@ -1,0 +1,6 @@
+{
+  "name": "kafkawriter",
+  "class": "com.jiumaojiu.datax.kafka.KafkaWriter",
+  "description": "write data to kafka",
+  "developer": "liangqinghai"
+}
